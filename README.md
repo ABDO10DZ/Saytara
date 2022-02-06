@@ -16,7 +16,7 @@ hvnc (client/server)
 <h4>other stuff :</h4> 
 stable build , small size loader , no junks (based in memory),fud somehow,antivm,anti-debug & analyse tools, secure p2p connection
 <br><br>
-Scan <a href="https://antiscan.me/scan/new/result?id=DpTOUcukWCd6"><img src="https://antiscan.me/images/result/DpTOUcukWCd6.png"></a>
+Scan<br> <a href="https://antiscan.me/scan/new/result?id=DpTOUcukWCd6"><img src="https://antiscan.me/images/result/DpTOUcukWCd6.png"></a>
 <br>
 #malware , #Saytara , #katana , #botnet , #banking
 <br>
